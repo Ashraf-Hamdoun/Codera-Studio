@@ -1,0 +1,38 @@
+[
+    {
+        "id": "a01",
+        "username": "Jack Paul",
+        "comment": "I love all your products and your special designs",
+        "imgUrl": "images/user-vector-avatar.jpg"
+    },
+	{
+        "id": "a02",
+        "username": "Mark",
+        "comment": "I love all your products and your special designs",
+        "imgUrl": "images/user-vector-avatar.jpg"
+    },
+	{
+        "id": "a03",
+        "username": "Maria",
+        "comment": "I love all your products and your special designs",
+        "imgUrl": "images/user-vector-avatar.jpg"
+    },
+	{
+        "id": "a04",
+        "username": "Tom",
+        "comment": "I love all your products and your special designs",
+        "imgUrl": "images/user-vector-avatar.jpg"
+    },
+	{
+        "id": "a05",
+        "username": "Zac",
+        "comment": "I love all your products and your special designs",
+        "imgUrl": "images/user-vector-avatar.jpg"
+    },
+	{
+        "id": "a06",
+        "username": "Raph",
+        "comment": "I love all your products and your special designs",
+        "imgUrl": "images/user-vector-avatar.jpg"
+    }
+]
